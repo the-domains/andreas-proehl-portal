@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Andreas Pröhl Portal]]></title>
+        <description><![CDATA[Andreas Pröhl Portal]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Sat, 09 Jan 2016 17:36:36 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Über Andreas Pröhl]]></title>
+            <description><![CDATA[<article><h1>Über Andreas Pröhl</h1><p>Inhalt und Umfang seiner Arbeit</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/cbdcf803-166c-44b0-bfe1-6f003b1d72ff.jpg"></article>]]></description>
+            <link>undefineduber-andreas-prohl/index.html</link>
+            <guid isPermaLink="false">7522f01d-89b0-4150-a081-6ad475626e4e</guid>
+            <pubDate>Sat, 09 Jan 2016 17:36:20 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
